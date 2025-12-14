@@ -1,6 +1,9 @@
 # ProductionReadyRAG
 Creating a Production Ready Retrieval Augmented Generation (RAG) Agentic Workflow with OpenAI API for PDF ingestion
 
+Demo:
+
+[Production RAG Demo](https://youtu.be/OrgrrwHXUrY)
 
 This project was tutorial based: [Tutorial](https://www.youtube.com/watch?v=AUQJ9eeP-Ls)
 
